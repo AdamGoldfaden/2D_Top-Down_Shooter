@@ -1,5 +1,5 @@
 # 2D_Top-Down_Shooter
-Game systems implemented: 
+Game systems implemented:
 -sprite animation
 -player-follow camera
 -AABB collision handling and resolution
