@@ -2,9 +2,7 @@
 Game systems implemented:\
 -sprite animation\
 -player-follow camera\
--AABB collision handling and resolution\
+-collision handling and resolution\
 -enemy AI\
 -projectile spawning\
--player health+damage\ 
--scoring\
--enemy random respawning\
+-player mechanics
