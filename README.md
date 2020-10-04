@@ -5,6 +5,6 @@ Game systems implemented:\
 -AABB collision handling and resolution\
 -enemy AI\
 -projectile spawning\
--player health/damage\ 
+-player health&damage\ 
 -scoring\
 -enemy random respawning\
